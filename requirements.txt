@@ -1,0 +1,2 @@
+# Standard library is primarily used. Optional packages for enhanced features:
+python-dotenv>=1.0.0
